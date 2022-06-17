@@ -1,0 +1,8 @@
+{
+  "name": "ecifm-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cdccca03"
+}
